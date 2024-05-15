@@ -1,0 +1,23 @@
+{
+  "name": "anees-hanif-cli-mile-to-kilometer-converter-01",
+  "version": "1.0.0",
+  "description": "this sis a cli based mile to km converter",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anees Hanif",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "figlet": "^1.7.0",
+    "inquirer": "^9.2.21"
+  },
+  "devDependencies": {
+    "@types/figlet": "^1.5.8",
+    "@types/inquirer": "^9.0.7"
+  }
+}
