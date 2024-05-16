@@ -1,6 +1,6 @@
 {
-  "name": "anees-hanif-cli-mile-to-kilometer-converter-01",
-  "version": "1.0.0",
+  "name": "anees-hanif-cli-mile-to-kilometer-converter-07",
+  "version": "1.0.1",
   "description": "this sis a cli based mile to km converter",
   "main": "index.js",
   "type": "module",
